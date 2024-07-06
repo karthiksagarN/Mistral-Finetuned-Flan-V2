@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+tensorflow
+torch
+peft
+bitsandbytes
+transformers
+datasets
