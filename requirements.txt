@@ -7,3 +7,4 @@ peft
 bitsandbytes
 transformers
 datasets
+sentence-transformers
