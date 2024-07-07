@@ -1,10 +1,16 @@
+ipykernel
 numpy
 pandas
 matplotlib
 tensorflow
 torch
 peft
+trl
 bitsandbytes
 transformers
+accelerate
 datasets
 sentence-transformers
+huggingface_hub
+ipywidgets
+tf-keras    # depends on system to system
