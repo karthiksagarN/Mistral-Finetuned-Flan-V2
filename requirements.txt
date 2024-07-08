@@ -14,3 +14,6 @@ sentence-transformers
 huggingface_hub
 ipywidgets
 tf-keras    # depends on system to system
+optimum
+xformers
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
